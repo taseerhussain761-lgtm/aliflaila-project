@@ -266,10 +266,11 @@
 
 
     }
-
+    
+/* comment */
     .card1 {
         display: flex;
-        justify-content: center;
+        justify-content: center;    
     }
 
 
