@@ -492,72 +492,6 @@
 .svg-h2-align h2{
     font-size: 38px;
 }
-.container {
-    background: #fdbe22;
-     padding: 60px 40px; 
-    height: auto;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.card-one {
-    display: flex;
-    flex-direction: column;
-    gap: 1.5rem;
-
-}
-
-.card-one h2 {
-    font-size: 25px;
-    font-weight: 700;
-    line-height: 1.3;
-    color: #2c2b2b;
-}
-
-#btn {
-    color: #fff;
-    cursor: pointer;
-    width: auto;
-    font-weight: 400;
-    background-color: #ef437b;
-    font-size: 13px;
-    border: none;
-    border-radius: 32px;
-    padding: 6px 22px;
-}
-
-#input {
-    color: #656464;
-    width: 200px;
-    border: none;
-    border-radius: 30px;
-    padding: 0 10px;
-    font-weight: 400;
-    font-size: 10px;
-    line-height: 24px;
-    outline: none;
-
-}
-
-.input-btn {
-    cursor: pointer;
-    background: #fff;
-    border-radius: 30px;
-    padding: 3px;
-    display: flex;
-    gap: 1rem;
-    width: 100%;
-    box-shadow: 3px 3px 12px #06060630;
-}
-
-.align-sub-card {
-    display: flex;
-    flex-direction: row;
-    gap: 1rem;
-
-}
-
 .img-div {
     cursor: pointer;
     background: #000;
@@ -582,6 +516,84 @@
     flex-direction: column;
     gap: 0.8rem;
 }
+/* footer */
+
+#para1 {
+    color: #ffc107;
+}
+
+
+.container {
+    background: #fdbe22;
+     padding: 60px 40px; 
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card-one {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+
+}
+
+.card-one h2 {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.3;
+    color: #2c2b2b;
+}
+
+#btn {
+    color: #fff;
+    cursor: pointer;
+    width: auto;
+    font-weight: 400;
+    background-color: #ef437b;
+    font-size: 17px;
+    border: none;
+    border-radius: 32px;
+    padding: 6px 22px;
+    height: 40px;
+    max-width: 130px;
+    min-width: 80px;
+}
+#input {
+    color: #656464;
+    width: 200px;
+    border: none;
+    border-radius: 30px;
+    padding: 0.7rem;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 24px;
+    outline: none;
+
+}
+
+.input-btn {
+    cursor: pointer;
+    background: #fff;
+    border-radius: 30px;
+    padding: 3px;
+    display: flex;
+    gap: 1rem;
+    width: 100%;
+    box-shadow: 3px 3px 12px #06060630;
+}
+
+.align-sub-card {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+
+}
+
+
+
+
 @media(max-width:1024px) {
   .image-container {
         background-size: contain;
