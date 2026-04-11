@@ -43,47 +43,6 @@
     border-top-left-radius: 64.22px;
 
 }
-
-/* 
-.card2 {
-    padding-top: 3rem;
-    padding-right: 1rem;
-    display: flex;
-    flex-direction: column;
-    gap: 2rem;
-}
-.card2 h1{
-    color:#782c79;
-    font-weight: 700;
-}
-.card2-card1{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    
-
-}
-.card2-card1-sub{
-    display: flex;
-    gap: 1rem;
-    padding-right: 4rem;
-
-}
-.svg-div{
-    display: inline-flex;
-    border: 1px solid #ed447a;
-    border-radius: 100%;
-    padding: 0.3rem;
-}
-#logo-cont{
-    height: .5rem;
-    width: .5rem;
-}
-#para1{
-    color: #ffc107;
-}
- */
- 
 .card2 {
     padding-top: .5rem;
     padding-right: 1rem;
