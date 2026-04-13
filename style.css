@@ -11,17 +11,17 @@
     grid-template-columns: 1fr 2fr;
     gap: 1.5rem;
 }
-
 .card1 {
     background-color: #fff;
     border-radius: 19px;
-    width: 260px;
-    height: 365px;
+    width: 375px;
+    height: 505px;
     position: relative;
     min-height: 200px;
     padding: 11px;
     box-sizing: border-box;
     object-position: center;
+
 }
 
 .Al-Hasan-image {
@@ -32,8 +32,8 @@
 .sound-image {
     border-bottom-right-radius: 15.29px;
     align-items: center;
-    width: 50px;
-    height: 50px;
+    width: 60px;
+    height: 60px;
     justify-content: center;
     display: inline-flex;
     position: absolute;
@@ -43,6 +43,7 @@
     border-top-left-radius: 64.22px;
 
 }
+
 .card2 {
     padding-top: .5rem;
     padding-right: 1rem;
@@ -599,7 +600,7 @@
     transform: rotate(30deg);
 }
 .diamond2{
-    transform: rotateX(-450deg);
+    transform: rotate(-30deg);
 
 }
 
