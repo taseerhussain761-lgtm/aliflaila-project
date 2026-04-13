@@ -599,7 +599,7 @@
     transform: rotate(30deg);
 }
 .diamond2{
-    /* transform: rotateX(-30deg); */
+    transform: rotateX(-30deg);
 
 }
 
